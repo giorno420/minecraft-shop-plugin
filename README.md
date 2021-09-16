@@ -1,2 +1,2 @@
-# minecraft-shop-plugin
-minecraft plugin to run commands with requests
+# Minecraft Request Commands
+A basic plugin to run commands using requests and authentication
