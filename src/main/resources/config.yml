@@ -1,0 +1,10 @@
+port: 6969
+debug: false
+useKeyAuth: false # change to true to enable key auth
+key: 'change_me'
+normalizeMessages: true
+
+# the only IPs the server would accept requests from
+corsOrigins:
+  - "*"
+

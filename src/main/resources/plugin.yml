@@ -1,0 +1,8 @@
+name: GiornoShop
+main: com.giornosmp.shop.GiornoShop
+author: Giorno420
+version: 1.0
+description: among fard epic deez nuts
+api-version: 1.14
+softdepend:
+  - Vault

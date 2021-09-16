@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.webjars.npm:redoc:2.0.0-rc.23">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/redoc/2.0.0-rc.23/redoc-2.0.0-rc.23.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/redoc/2.0.0-rc.23/redoc-2.0.0-rc.23-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/webjars/npm/redoc/2.0.0-rc.23/redoc-2.0.0-rc.23-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
